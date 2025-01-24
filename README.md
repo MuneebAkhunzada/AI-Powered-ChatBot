@@ -38,7 +38,7 @@ OpenAI Python package
 SQLite (built-in with Python)
 
 Step 1: Clone the Repository
-git clone https://github.com/yourusername/AI-Powered-ChatBot.git
+git clone https://github.com/MuneebAkhunzada/AI-Powered-ChatBot.git
 cd AI-Powered-ChatBot
 
 Step 2: Create a Virtual Environment (Optional but Recommended)
